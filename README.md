@@ -24,7 +24,7 @@ Flight: 10 m square at 10 m altitude.
 
 | Metric | Value |
 |---|---|
-| RMSE | <1.27 > m |
+| RMSE | 1.27 m |
 | Max error | 4.79 m |
 | GPS path length | 40.5 m |
 
