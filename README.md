@@ -24,9 +24,9 @@ Flight: 10 m square at 10 m altitude.
 
 | Metric | Value |
 |---|---|
-| RMSE | <value from plot.py> m |
-| Max error | <value> m |
-| GPS path length | <value> m |
+| RMSE | <1.27 > m |
+| Max error | 4.79 m |
+| GPS path length | 40.5 m |
 
 ![GPS vs VIO](results/v1_baseline/gps_vs_vio.png)
 
