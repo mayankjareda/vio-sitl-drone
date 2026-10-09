@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.tlog
+*.bak
+mav.parm
+eeprom.bin
+/gps_vs_vio.png
+/vio_log.csv
+frame.png
