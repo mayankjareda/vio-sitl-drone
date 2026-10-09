@@ -75,6 +75,5 @@ python3 plot.py
   estimate to ArduPilot as `VISION_POSITION_ESTIMATE`.
 
 ## Demo videos
-- Takeoff and landing: <link>
-- Camera subscription and VIO: <link>
-- GPS vs VIO plot: <link>
+- Takeoff and landing: <[link](https://drive.google.com/drive/folders/1hYlhr-4Xe9rqmqvKwDggKR8okjN65LIU?usp=sharing)>
+- GPS vs VIO plot: <[link](https://drive.google.com/drive/folders/1hYlhr-4Xe9rqmqvKwDggKR8okjN65LIU?usp=sharing)>
